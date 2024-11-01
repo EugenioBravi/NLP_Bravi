@@ -4,6 +4,7 @@ clase,frase
 0,"no tengo ganas de hacer nada, estoy algo decaido."
 0,echo de menos esos tiempos felices que ya no volveran.
 0,"me invade una sensacion de tristeza, sin motivo aparente."
+0,"hoy fue el peor dia, un dia de mierda"
 0,"me siento un poco perdido hoy, como si algo faltara, siento melancolia."
 0,es uno de esos dias donde la tristeza aparece sin razon.
 0,"no encuentro motivacion para hacer nada, me siento , como si fuera a perder algo."
@@ -23,11 +24,13 @@ clase,frase
 0,"mis pensamientos estan pesados, todo parece sombrio, estoy muy perdido."
 0,me siento atrapado en un estado de tristeza continua.
 0,la vida parece haber perdido su color hoy.
+0,terrible dia la pase mal
 0,"estoy triste, me siento gris"
 0,"todo para atras, no paro de perder"
 0,"agoviado, con mucha tristeza"
 0,me siento nostalgico
 0,"quiero llorar,estoy muy triste"
+0,el peor dia
 0,"me siento un poco nostalgico hoy, melancolico."
 0,"me siento atrapado en pensamientos del pasado, sin poder avanzar."
 0,hoy siento que los recuerdos pesan mas que de costumbre.
@@ -35,6 +38,7 @@ clase,frase
 0,mi dia fue una sucesion de momentos vacios que no dejaron huella.
 0,hoy fue uno de esos dias en los que todo parece distante y ajeno.
 0,el dia de hoy fue un recordatorio de lo que ya no esta conmigo.
+0,"el peor dia de mi vida, fue terrible el dia de hoy"
 0,hoy fue un dia en el que los pensamientos del pasado no me dejaron en paz.
 0,me siento envuelto en una melancolia que no logro sacudirme.
 0,"me siento como si estuviera caminando por un camino que ya recorri antes, pero ahora esta vacio."
@@ -48,6 +52,8 @@ clase,frase
 0,mi dia fue una constante lucha contra la sensacion de vacio.
 0,el dia de hoy fue como un eco lejano de tiempos mejores.
 0,hoy fue un dia en el que los recuerdos felices me hicieron sentir solo.
+0,estoy harto hoy fue un dia de mierda
+0,terrible el dia de hoy
 1,"estoy tranquilo, sin nada que me afecte."
 1,"no siento nada por lo que esta pasando, todo es normal."
 1,hoy no hay mucho que contar.
@@ -122,6 +128,7 @@ clase,frase
 2,me siento increible
 2,hoy estoy disfrutando cada momento.
 2,"todo es tan positivo hoy, este dia es un exito total"
+2,me diverti mucho hoy estubo genial.
 2,me siento afortunado de tener un dia tan bueno.
 2,que bien se siente estar tan alegre
 2,"todo esta yendo a la perfeccion, me siento fenomenal"
@@ -133,6 +140,7 @@ clase,frase
 2,estoy muy agradecido por todo me pasa.
 2,me siento lleno de energia y optimismo hoy.
 2,"hoy siento que todo salio de maravilla, no podria estar mas contento."
+2,"todo cool, todo genial."
 2,"mi dia fue increible, lleno de buenos momentos y sonrisas."
 2,hoy fue uno de esos dias en los que todo parece brillar un poco mas.
 2,"el dia de hoy fue espectacular, cada pequena cosa me lleno de felicidad."
@@ -153,3 +161,5 @@ clase,frase
 2,"mi dia fue fantastico, lleno de momentos felices y encuentros agradables."
 2,"el dia de hoy fue maravilloso, no pare de sonreir en todo momento."
 2,"hoy fue un dia lleno de alegria y felicidad, lo recordare siempre."
+2,"todo cool, hoy fue un dia genial."
+2,genial hoy fue un dia muy cool.
